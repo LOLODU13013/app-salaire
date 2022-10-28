@@ -1,6 +1,6 @@
 ---
 
-- hosts: 10.0.0.50
+- hosts: 10.0.0.60
 
   roles:
    - roles/apache
